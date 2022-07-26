@@ -27,3 +27,8 @@ Notes:
 No rounding is needed.
 
 Hint: The Boolean True, used with arithmetic operators, counts as 1, while False counts as 0. That means (a>b)+1 will return 1 or 2, depending on the values of a and b.
+
+## Usage
+
+    cd CircleSquarePerimeter
+    python Perimeter.py
